@@ -15,7 +15,9 @@ Con AdSense + afiliados en un sitio de nicho, 5-6k€/mes es un objetivo de **12
 ## Fases
 
 ### Fase 0 — Cimientos (semana 1-2) ✅ en progreso
-- [x] Sitio funcionando, 22 artículos publicados.
+- [x] Sitio funcionando, 33 artículos publicados.
+- [x] 33 pines de Pinterest generados y listos para publicar (`estrategia/pines/`).
+- [x] Enlazado interno, JSON-LD, favicon y limpieza de prosa aplicados.
 - [ ] Desplegado en producción con URL confirmada (pendiente de ti).
 - [ ] Dominio propio conectado (puede esperar; subdominio gratis vale para empezar).
 - [ ] Alta en Google Search Console + sitemap enviado.

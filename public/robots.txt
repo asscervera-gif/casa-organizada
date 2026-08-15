@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tu-dominio-pendiente.example.com/sitemap-index.xml
+Sitemap: https://casa-organizada.pages.dev/sitemap-index.xml

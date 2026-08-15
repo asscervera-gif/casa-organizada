@@ -8,17 +8,17 @@ products:
     priceRange: "40-70 €"
     pros: ["Enseña a clasificar por tipo de juguete con colores", "Los contenedores se sacan enteros para jugar en otra habitación"]
     cons: ["Ocupa espacio fijo de suelo, hay que planificar la ubicación"]
-    affiliateUrl: "https://www.amazon.es/s?k=mueble+cubo+contenedores+juguetes&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=mueble+cubo+contenedores+juguetes&tag=casaorganiz0b-21"
   - name: "Cestas apilables de plástico grandes"
     priceRange: "15-25 €"
     pros: ["Resistentes a golpes y caídas típicas de juguetes", "Fáciles de limpiar"]
     cons: ["Menos vistosas que los contenedores de tela"]
-    affiliateUrl: "https://www.amazon.es/s?k=cestas+apilables+juguetes&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=cestas+apilables+juguetes&tag=casaorganiz0b-21"
   - name: "Bolsa colgante organizadora para peluches"
     priceRange: "10-18 €"
     pros: ["Libera todo el espacio de suelo", "Ideal específicamente para peluches y muñecos blandos"]
     cons: ["No sirve para juguetes rígidos o piezas pequeñas tipo bloques"]
-    affiliateUrl: "https://www.amazon.es/s?k=bolsa+colgante+peluches&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=bolsa+colgante+peluches&tag=casaorganiz0b-21"
 ---
 
 Una habitación infantil sin sistema de organización se desordena en minutos. La clave no es tener más muebles, sino que recoger sea tan simple que los propios niños puedan hacerlo.

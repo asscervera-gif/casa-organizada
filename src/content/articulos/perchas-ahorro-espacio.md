@@ -8,17 +8,17 @@ products:
     priceRange: "10-18 € el set"
     pros: ["Multiplica por 5 la capacidad de una sola barra", "Ideal para bufandas, pañuelos o prendas ligeras"]
     cons: ["No apta para prendas pesadas como abrigos, se sobrecarga el nivel inferior"]
-    affiliateUrl: "https://www.amazon.es/s?k=perchas+cascada+ahorro+espacio&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=perchas+cascada+ahorro+espacio&tag=casaorganiz0b-21"
   - name: "Perchas de terciopelo antideslizante (set de 20-30)"
     priceRange: "15-25 €"
     pros: ["Finas, ocupan menos ancho de barra que las de plástico", "La ropa no resbala ni se cae"]
     cons: ["Más delicadas, algunas prendas pesadas necesitan percha reforzada"]
-    affiliateUrl: "https://www.amazon.es/s?k=perchas+terciopelo+antideslizante&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=perchas+terciopelo+antideslizante&tag=casaorganiz0b-21"
   - name: "Perchas plegables de viaje"
     priceRange: "6-12 €"
     pros: ["Se pliegan para ocupar mínimo espacio en la maleta", "Útiles también para espacios reducidos en casa"]
     cons: ["Menos resistentes que una percha estándar para uso diario prolongado"]
-    affiliateUrl: "https://www.amazon.es/s?k=perchas+plegables+viaje&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=perchas+plegables+viaje&tag=casaorganiz0b-21"
 ---
 
 Cambiar las perchas del armario es una de las mejoras de almacenaje más baratas y con mejor resultado inmediato: sin gastar en muebles nuevos, se puede ganar hasta el doble de capacidad de colgado.

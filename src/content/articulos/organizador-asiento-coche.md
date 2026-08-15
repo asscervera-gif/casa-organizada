@@ -8,17 +8,17 @@ products:
     priceRange: "12-22 €"
     pros: ["Ordena mapas, botellas, snacks y accesorios de un vistazo", "Instalación sencilla en cualquier reposacabezas"]
     cons: ["Capacidad limitada para objetos voluminosos"]
-    affiliateUrl: "https://www.amazon.es/s?k=organizador+colgante+asiento+coche&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=organizador+colgante+asiento+coche&tag=casaorganiz0b-21"
   - name: "Soporte para tablet en respaldo"
     priceRange: "15-25 €"
     pros: ["Mantiene entretenidos a los niños en viajes largos sin sujetar el dispositivo con las manos", "Ángulo ajustable"]
     cons: ["Compatibilidad de tamaño limitada según el modelo de tablet"]
-    affiliateUrl: "https://www.amazon.es/s?k=soporte+tablet+respaldo+coche&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=soporte+tablet+respaldo+coche&tag=casaorganiz0b-21"
   - name: "Bandeja plegable de mesa para asiento trasero"
     priceRange: "18-30 €"
     pros: ["Útil para comer, jugar o trabajar en trayectos largos", "Se pliega cuando no se usa"]
     cons: ["Ocupa espacio de piernas del pasajero trasero cuando está desplegada"]
-    affiliateUrl: "https://www.amazon.es/s?k=bandeja+plegable+asiento+coche&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=bandeja+plegable+asiento+coche&tag=casaorganiz0b-21"
 ---
 
 En trayectos largos, el interior del coche se desordena rápido: botellas, snacks, dispositivos y mapas sueltos por todo el asiento. Un organizador de respaldo resuelve esto de forma directa.

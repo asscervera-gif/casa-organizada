@@ -8,17 +8,17 @@ products:
     priceRange: "15-25 €"
     pros: ["Se pliegan cuando no se usan", "Buena relación calidad-precio", "Fáciles de etiquetar"]
     cons: ["No son rígidas del todo", "El tejido barato se puede deformar con el tiempo"]
-    affiliateUrl: "https://www.amazon.es/s?k=cajas+organizadoras+tela+armario&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=cajas+organizadoras+tela+armario&tag=casaorganiz0b-21"
   - name: "Organizador colgante de 6 estantes"
     priceRange: "10-18 €"
     pros: ["Multiplica el espacio vertical", "Instalación sin herramientas", "Ideal para jerséis y bolsos"]
     cons: ["Puede combarse con peso excesivo", "No apto para prendas pesadas"]
-    affiliateUrl: "https://www.amazon.es/s?k=organizador+colgante+armario&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=organizador+colgante+armario&tag=casaorganiz0b-21"
   - name: "Separadores de cajón ajustables (juego)"
     priceRange: "12-20 €"
     pros: ["Se adaptan a cualquier ancho de cajón", "Perfectos para ropa interior y calcetines"]
     cons: ["Ocupan algo de espacio útil por el grosor del plástico"]
-    affiliateUrl: "https://www.amazon.es/s?k=separadores+cajon+ajustables&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=separadores+cajon+ajustables&tag=casaorganiz0b-21"
 ---
 
 Un armario desordenado hace que perdamos tiempo cada mañana y que la ropa se estropee antes. La buena noticia es que con dos o tres accesorios bien elegidos puedes duplicar el espacio útil sin hacer obra ni gastar mucho dinero.

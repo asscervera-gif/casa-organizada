@@ -8,17 +8,17 @@ products:
     priceRange: "20-35 €"
     pros: ["Mantiene los bolsos visibles y en su forma natural, sin aplastarlos", "Aprovecha bien un hueco vertical del armario"]
     cons: ["Ocupa un espacio fijo que no sirve para otra cosa"]
-    affiliateUrl: "https://www.amazon.es/s?k=estante+inclinado+bolsos+armario&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=estante+inclinado+bolsos+armario&tag=casaorganiz0b-21"
   - name: "Organizador colgante de tela con compartimentos"
     priceRange: "12-20 €"
     pros: ["Aprovecha la barra del armario sin ocupar espacio de balda", "Buena opción para bolsos pequeños y medianos"]
     cons: ["Los bolsos más grandes o rígidos no siempre encajan bien en los compartimentos"]
-    affiliateUrl: "https://www.amazon.es/s?k=organizador+colgante+bolsos&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=organizador+colgante+bolsos&tag=casaorganiz0b-21"
   - name: "Fundas transparentes individuales con cremallera"
     priceRange: "10-18 € el set"
     pros: ["Protege del polvo y la luz, ideal para bolsos de piel", "Permite apilar varios bolsos sin que se rocen entre sí"]
     cons: ["Hay que sacar cada bolso de su funda para verlo, menos acceso visual rápido"]
-    affiliateUrl: "https://www.amazon.es/s?k=fundas+transparentes+bolsos&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=fundas+transparentes+bolsos&tag=casaorganiz0b-21"
 ---
 
 Los bolsos suelen perder la forma o llenarse de polvo cuando se guardan amontonados en la parte alta de un armario. Un organizador específico alarga su vida útil además de ordenar el espacio.

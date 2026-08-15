@@ -8,17 +8,17 @@ products:
     priceRange: "30-55 €"
     pros: ["Combina colgado y almacenaje de paraguas o bastones", "Estética cálida, encaja en casi cualquier decoración"]
     cons: ["Ocupa más espacio en planta que un modelo de pared"]
-    affiliateUrl: "https://www.amazon.es/s?k=perchero+pie+madera+paraguero&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=perchero+pie+madera+paraguero&tag=casaorganiz0b-21"
   - name: "Perchero metálico con banco de almacenaje inferior"
     priceRange: "40-70 €"
     pros: ["El banco permite calzarse sentado y guardar zapatos a la vez", "Práctico para entradas familiares"]
     cons: ["Precio más alto", "Necesita más espacio de pared que uno simple"]
-    affiliateUrl: "https://www.amazon.es/s?k=perchero+banco+almacenaje+entrada&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=perchero+banco+almacenaje+entrada&tag=casaorganiz0b-21"
   - name: "Perchero compacto de pie, base estrecha"
     priceRange: "18-30 €"
     pros: ["Ideal para entradas o pasillos estrechos", "Fácil de mover si hace falta reorganizar"]
     cons: ["Menor capacidad de colgado, pensado para 1-2 personas"]
-    affiliateUrl: "https://www.amazon.es/s?k=perchero+pie+compacto+entrada&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=perchero+pie+compacto+entrada&tag=casaorganiz0b-21"
 ---
 
 La entrada de casa es la zona que más rápido se desordena: abrigos, bolsos y llaves sin un sitio fijo. Un perchero de pie bien elegido resuelve esto sin necesidad de obra ni mueble a medida.

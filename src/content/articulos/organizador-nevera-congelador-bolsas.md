@@ -8,17 +8,17 @@ products:
     priceRange: "15-25 €"
     pros: ["Resisten bajas temperaturas sin agrietarse", "Se sacan enteras para revisar el contenido sin descongelar todo"]
     cons: ["Ocupan espacio fijo que reduce algo la capacidad total"]
-    affiliateUrl: "https://www.amazon.es/s?k=cestas+apilables+congelador&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=cestas+apilables+congelador&tag=casaorganiz0b-21"
   - name: "Soporte organizador para bolsas de congelación en vertical"
     priceRange: "10-18 €"
     pros: ["Las bolsas quedan de pie y visibles, no amontonadas", "Aprovecha bien cajones estrechos de congelador"]
     cons: ["Solo funciona con bolsas, no con tuppers rígidos"]
-    affiliateUrl: "https://www.amazon.es/s?k=soporte+bolsas+congelacion+vertical&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=soporte+bolsas+congelacion+vertical&tag=casaorganiz0b-21"
   - name: "Separadores verticales ajustables"
     priceRange: "12-20 €"
     pros: ["Crea secciones por tipo de alimento (carne, verdura, pan)", "Se ajustan al ancho del cajón"]
     cons: ["Requiere cierta disciplina para mantener el orden por sección"]
-    affiliateUrl: "https://www.amazon.es/s?k=separadores+verticales+congelador&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=separadores+verticales+congelador&tag=casaorganiz0b-21"
 ---
 
 Un congelador sin organizar termina con comida olvidada al fondo durante meses. Con el sistema adecuado, cada bolsa o tupper queda visible sin necesidad de sacarlo todo para buscar algo.

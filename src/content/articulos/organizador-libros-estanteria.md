@@ -8,17 +8,17 @@ products:
     priceRange: "10-18 € el par"
     pros: ["Evita que los libros se caigan o se inclinen con el tiempo", "Base pesada, no necesita fijación"]
     cons: ["Ocupa algo de espacio de balda en los extremos"]
-    affiliateUrl: "https://www.amazon.es/s?k=sujetalibros+metal&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=sujetalibros+metal&tag=casaorganiz0b-21"
   - name: "Estantería flotante para pared"
     priceRange: "20-35 €"
     pros: ["Libera espacio de suelo por completo", "Buena estética para exponer libros y decoración juntos"]
     cons: ["Capacidad limitada de peso según el sistema de fijación"]
-    affiliateUrl: "https://www.amazon.es/s?k=estanteria+flotante+libros&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=estanteria+flotante+libros&tag=casaorganiz0b-21"
   - name: "Organizador de revistas y archivadores verticales"
     priceRange: "12-22 € el set"
     pros: ["Mantiene revistas y documentos en vertical, fácil de identificar", "Apilable o en fila sobre cualquier estantería"]
     cons: ["Pensado para formatos delgados, no para libros gruesos"]
-    affiliateUrl: "https://www.amazon.es/s?k=organizador+revistas+vertical&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=organizador+revistas+vertical&tag=casaorganiz0b-21"
 ---
 
 Una estantería sin organizar acaba con libros inclinados, combados o simplemente apilados sin criterio. Un par de accesorios básicos alargan la vida de los libros y mejoran el acceso.

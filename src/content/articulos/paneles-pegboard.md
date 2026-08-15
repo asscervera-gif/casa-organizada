@@ -8,7 +8,7 @@ products:
     priceRange: "25-45 €"
     pros: ["Incluye ganchos, cestas y estantes", "Se reconfigura en segundos", "Estético, sirve como decoración"]
     cons: ["Necesita fijarse a la pared con taladro en la mayoría de modelos"]
-    affiliateUrl: "https://www.amazon.es/s?k=panel+pegboard+madera&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=panel+pegboard+madera&tag=casaorganiz0b-21"
 ---
 
 El pegboard (panel perforado) es uno de los sistemas de organización más versátiles que existen: un mismo panel puede organizar herramientas en un garaje, material de oficina en un despacho o accesorios de cocina, solo cambiando los ganchos.

@@ -8,17 +8,17 @@ products:
     priceRange: "20-35 €"
     pros: ["Mantiene el pienso fresco y protegido de humedad e insectos", "Las ruedas facilitan moverlo si pesa mucho lleno"]
     cons: ["Ocupa un espacio fijo considerable en la cocina o despensa"]
-    affiliateUrl: "https://www.amazon.es/s?k=contenedor+hermetico+pienso+ruedas&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=contenedor+hermetico+pienso+ruedas&tag=casaorganiz0b-21"
   - name: "Dispensador con medidor integrado"
     priceRange: "15-28 €"
     pros: ["Sirve la ración exacta sin necesidad de cuchara aparte", "Evita el sobrepeso por raciones mal calculadas"]
     cons: ["Menor capacidad total que un contenedor grande"]
-    affiliateUrl: "https://www.amazon.es/s?k=dispensador+medidor+pienso&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=dispensador+medidor+pienso&tag=casaorganiz0b-21"
   - name: "Organizador de accesorios (correas, juguetes, medicación)"
     priceRange: "12-20 €"
     pros: ["Centraliza todo lo necesario para paseos y cuidado en un solo lugar", "Fácil de coger antes de salir de casa"]
     cons: ["No incluye almacenaje de comida, solo accesorios"]
-    affiliateUrl: "https://www.amazon.es/s?k=organizador+accesorios+mascota&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=organizador+accesorios+mascota&tag=casaorganiz0b-21"
 ---
 
 Con una mascota en casa, la comida y los accesorios tienden a acumularse sin un sitio fijo. Organizarlo bien ahorra tiempo cada día y mantiene el pienso en mejores condiciones.

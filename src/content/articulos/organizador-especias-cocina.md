@@ -8,17 +8,17 @@ products:
     priceRange: "10-18 €"
     pros: ["Todas las etiquetas visibles de un vistazo", "Aprovecha bien la profundidad de un armario estándar"]
     cons: ["Ocupa varios niveles de altura, no siempre cabe en armarios bajos"]
-    affiliateUrl: "https://www.amazon.es/s?k=estante+escalonado+especias&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=estante+escalonado+especias&tag=casaorganiz0b-21"
   - name: "Organizador giratorio (carrusel)"
     priceRange: "12-22 €"
     pros: ["Acceso a cualquier bote con un giro", "Buena opción para encimera o esquinas de armario difíciles de aprovechar"]
     cons: ["Ocupa espacio circular fijo, no siempre eficiente en cajones estrechos"]
-    affiliateUrl: "https://www.amazon.es/s?k=organizador+giratorio+especias&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=organizador+giratorio+especias&tag=casaorganiz0b-21"
   - name: "Set de botes magnéticos para nevera o panel metálico"
     priceRange: "20-35 € el set"
     pros: ["Libera espacio de armario y cajón por completo", "Muy visual, funciona casi como decoración"]
     cons: ["Necesita superficie metálica cerca de la zona de cocina para instalarse"]
-    affiliateUrl: "https://www.amazon.es/s?k=botes+magneticos+especias&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=botes+magneticos+especias&tag=casaorganiz0b-21"
 ---
 
 Encontrar la especia correcta a mitad de una receta sin tener que rebuscar es uno de esos pequeños detalles que cambian la experiencia de cocinar cada día.

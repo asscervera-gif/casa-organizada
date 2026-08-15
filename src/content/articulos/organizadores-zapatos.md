@@ -8,17 +8,17 @@ products:
     priceRange: "15-28 €"
     pros: ["Se amplía añadiendo más niveles según necesidad", "Ligero y fácil de mover", "Buena ventilación para el calzado"]
     cons: ["Menos resistente que uno rígido, no apto para zapatos pesados o botas altas"]
-    affiliateUrl: "https://www.amazon.es/s?k=zapatero+tela+apilable&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=zapatero+tela+apilable&tag=casaorganiz0b-21"
   - name: "Organizador colgante de puerta con bolsillos"
     priceRange: "10-18 €"
     pros: ["Cero espacio de suelo ocupado", "Acceso rápido a todos los pares de un vistazo"]
     cons: ["Capacidad limitada para calzado voluminoso como botas"]
-    affiliateUrl: "https://www.amazon.es/s?k=organizador+zapatos+puerta+colgante&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=organizador+zapatos+puerta+colgante&tag=casaorganiz0b-21"
   - name: "Caja transparente apilable con tapa"
     priceRange: "3-6 € por unidad"
     pros: ["Protege el calzado del polvo y la luz", "Apilable en armario o bajo la cama, ideal para calzado de temporada"]
     cons: ["Requiere comprar varias unidades si tienes muchos pares, el coste total sube"]
-    affiliateUrl: "https://www.amazon.es/s?k=caja+zapatos+transparente+apilable&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=caja+zapatos+transparente+apilable&tag=casaorganiz0b-21"
 ---
 
 El calzado es uno de los objetos que más espacio de suelo ocupa si no se organiza bien, y también uno de los que más rápido se puede ordenar con la solución adecuada.

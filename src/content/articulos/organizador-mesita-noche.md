@@ -8,17 +8,17 @@ products:
     priceRange: "8-15 €"
     pros: ["Separa gafas, mando y objetos pequeños que se pierden con facilidad", "Se adapta a la mayoría de cajones estándar"]
     cons: ["Solo aprovecha el cajón, no la superficie de la mesita"]
-    affiliateUrl: "https://www.amazon.es/s?k=organizador+cajon+mesita+noche&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=organizador+cajon+mesita+noche&tag=casaorganiz0b-21"
   - name: "Soporte de carga con base para móvil y reloj"
     priceRange: "12-22 €"
     pros: ["Mantiene el móvil cargando en un lugar fijo y visible", "Reduce cables sueltos sobre la mesita"]
     cons: ["Requiere que el cable o cargador inalámbrico sea compatible con el soporte"]
-    affiliateUrl: "https://www.amazon.es/s?k=soporte+carga+movil+mesita+noche&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=soporte+carga+movil+mesita+noche&tag=casaorganiz0b-21"
   - name: "Organizador colgante para cabecero de cama"
     priceRange: "10-18 €"
     pros: ["Libera toda la superficie de la mesita", "Bolsillos a mano sin necesidad de encender la luz"]
     cons: ["Necesita un cabecero con borde donde colgarlo, no todas las camas son compatibles"]
-    affiliateUrl: "https://www.amazon.es/s?k=organizador+colgante+cabecero+cama&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=organizador+colgante+cabecero+cama&tag=casaorganiz0b-21"
 ---
 
 La mesita de noche suele acumular objetos sueltos sin orden: cables, gafas, libros a medias. Un organizador pequeño evita que se convierta en el rincón más caótico del dormitorio.

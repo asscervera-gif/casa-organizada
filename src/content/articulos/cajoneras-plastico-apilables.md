@@ -8,17 +8,17 @@ products:
     priceRange: "25-45 €"
     pros: ["Fácil de mover entre habitaciones", "Buena capacidad para ropa de temporada", "Cajones independientes, no hace falta sacar toda la torre"]
     cons: ["Las ruedas de gama baja pueden fallar con carga máxima"]
-    affiliateUrl: "https://www.amazon.es/s?k=cajonera+plastico+ruedas+apilable&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=cajonera+plastico+ruedas+apilable&tag=casaorganiz0b-21"
   - name: "Set de cajones transparentes apilables (sin estructura)"
     priceRange: "15-30 €"
     pros: ["Se ve el contenido sin abrir, ideal para juguetes o material escolar", "Se apilan solo los que necesitas, sin torre fija"]
     cons: ["Sin ruedas, hay que desapilar para acceder a los de abajo"]
-    affiliateUrl: "https://www.amazon.es/s?k=cajones+transparentes+apilables&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=cajones+transparentes+apilables&tag=casaorganiz0b-21"
   - name: "Cajonera modular estrecha para espacios reducidos"
     priceRange: "20-35 €"
     pros: ["Cabe en huecos estrechos entre mueble y pared", "Buena para baño o cocina pequeña"]
     cons: ["Menor capacidad por cajón al ser más estrecha"]
-    affiliateUrl: "https://www.amazon.es/s?k=cajonera+estrecha+plastico&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=cajonera+estrecha+plastico&tag=casaorganiz0b-21"
 ---
 
 Las cajoneras de plástico apilables son de las soluciones de almacenaje más versátiles que existen: sirven en habitación infantil, oficina, baño o trastero, y su precio suele ser bajo comparado con muebles a medida.

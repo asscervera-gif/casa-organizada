@@ -8,17 +8,17 @@ products:
     priceRange: "18-30 €"
     pros: ["Se ve el contenido sin sacar la caja", "Aprovecha la altura del frigorífico apilando niveles", "Aptas para lavavajillas en la mayoría de modelos"]
     cons: ["Ocupan espacio en vacío si no se guardan bien"]
-    affiliateUrl: "https://www.amazon.es/s?k=cajas+organizadoras+nevera+transparentes&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=cajas+organizadoras+nevera+transparentes&tag=casaorganiz0b-21"
   - name: "Dispensador de latas con rodadura automática"
     priceRange: "10-20 €"
     pros: ["La lata de delante siempre lista para coger", "Aprovecha bien estantes estrechos"]
     cons: ["Solo sirve para latas de un diámetro estándar"]
-    affiliateUrl: "https://www.amazon.es/s?k=dispensador+latas+nevera&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=dispensador+latas+nevera&tag=casaorganiz0b-21"
   - name: "Bandeja extraíble para puerta de nevera"
     priceRange: "12-22 €"
     pros: ["Facilita el acceso a salsas y botes pequeños sin mover todo lo demás", "Instalación sencilla en la mayoría de puertas"]
     cons: ["No todas las neveras tienen espacio suficiente en la puerta para instalarla"]
-    affiliateUrl: "https://www.amazon.es/s?k=bandeja+extraible+puerta+nevera&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=bandeja+extraible+puerta+nevera&tag=casaorganiz0b-21"
 ---
 
 Un frigorífico desorganizado no solo es incómodo, también hace que se compre comida duplicada o que se olviden productos hasta que caducan. Organizar bien el espacio reduce el desperdicio de forma directa.

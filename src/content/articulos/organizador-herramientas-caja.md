@@ -8,17 +8,17 @@ products:
     priceRange: "20-35 €"
     pros: ["Separa herramientas pequeñas de las grandes en un mismo cajón", "Asa central cómoda para transportar"]
     cons: ["Capacidad limitada para herramientas eléctricas voluminosas"]
-    affiliateUrl: "https://www.amazon.es/s?k=caja+herramientas+bandeja+extraible&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=caja+herramientas+bandeja+extraible&tag=casaorganiz0b-21"
   - name: "Sistema modular apilable de cajas técnicas"
     priceRange: "30-60 € el set"
     pros: ["Cada caja se puede sacar de forma independiente", "Se amplía añadiendo más módulos según crece la colección de herramientas"]
     cons: ["Precio más alto si se compran varios módulos"]
-    affiliateUrl: "https://www.amazon.es/s?k=sistema+modular+cajas+herramientas&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=sistema+modular+cajas+herramientas&tag=casaorganiz0b-21"
   - name: "Mochila técnica organizadora"
     priceRange: "25-45 €"
     pros: ["Cómoda para desplazamientos y trabajos fuera de casa", "Compartimentos específicos que evitan que las herramientas se golpeen entre sí"]
     cons: ["Menos capacidad total que una caja rígida grande"]
-    affiliateUrl: "https://www.amazon.es/s?k=mochila+tecnica+herramientas&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=mochila+tecnica+herramientas&tag=casaorganiz0b-21"
 ---
 
 Tener las herramientas organizadas no es solo comodidad: ahorra tiempo real cada vez que hay que hacer un arreglo en casa, en lugar de perder minutos buscando en cajones sueltos.

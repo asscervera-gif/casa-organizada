@@ -8,17 +8,17 @@ products:
     priceRange: "20-40 €"
     pros: ["Compartimentos específicos para anillos, pendientes y relojes", "Protege las piezas de arañazos"]
     cons: ["Ocupa espacio fijo en la cómoda o tocador"]
-    affiliateUrl: "https://www.amazon.es/s?k=joyero+cajones+terciopelo&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=joyero+cajones+terciopelo&tag=casaorganiz0b-21"
   - name: "Organizador colgante de pared con bolsillos transparentes"
     priceRange: "12-20 €"
     pros: ["Cero espacio de superficie ocupado", "Vista completa de todas las piezas de un vistazo", "Los collares no se enredan entre sí"]
     cons: ["Necesita espacio de pared o interior de puerta de armario disponible"]
-    affiliateUrl: "https://www.amazon.es/s?k=organizador+joyas+pared+colgante&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=organizador+joyas+pared+colgante&tag=casaorganiz0b-21"
   - name: "Estuche de viaje enrollable para joyas"
     priceRange: "8-15 €"
     pros: ["Compacto para maletas", "Compartimentos independientes que evitan enredos en el transporte"]
     cons: ["Capacidad limitada, pensado para viajes cortos"]
-    affiliateUrl: "https://www.amazon.es/s?k=estuche+viaje+joyas+enrollable&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=estuche+viaje+joyas+enrollable&tag=casaorganiz0b-21"
 ---
 
 Los collares enredados y los pendientes sueltos que nunca encuentran pareja son el problema número uno de guardar joyas sin un sistema pensado para ello. La solución no tiene que ser cara.

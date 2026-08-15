@@ -8,17 +8,17 @@ products:
     priceRange: "15-25 €"
     pros: ["Acceso inmediato a documentos de uso frecuente", "Ocupa poco espacio de escritorio"]
     cons: ["Capacidad limitada, no pensado para archivo a largo plazo"]
-    affiliateUrl: "https://www.amazon.es/s?k=archivador+vertical+sobremesa&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=archivador+vertical+sobremesa&tag=casaorganiz0b-21"
   - name: "Carpetas clasificadoras con separadores por categoría"
     priceRange: "10-20 € el set"
     pros: ["Ideal para clasificar por tipo de gasto o año", "Portátiles, se pueden llevar a una gestoría si hace falta"]
     cons: ["Con volumen alto de documentos hay que revisar y archivar con cierta frecuencia"]
-    affiliateUrl: "https://www.amazon.es/s?k=carpetas+clasificadoras+documentos&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=carpetas+clasificadoras+documentos&tag=casaorganiz0b-21"
   - name: "Cajas de archivo apilables para documentos antiguos"
     priceRange: "18-30 € el set"
     pros: ["Pensadas para guardar años de documentación sin ocupar el escritorio", "Apilables en armario o trastero"]
     cons: ["No son prácticas para documentos de consulta frecuente"]
-    affiliateUrl: "https://www.amazon.es/s?k=cajas+archivo+apilables&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=cajas+archivo+apilables&tag=casaorganiz0b-21"
 ---
 
 Perder tiempo buscando una factura o un contrato es uno de los problemas de organización más comunes en cualquier oficina en casa, y también uno de los más fáciles de resolver con el sistema correcto.

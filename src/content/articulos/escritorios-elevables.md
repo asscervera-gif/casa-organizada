@@ -8,12 +8,12 @@ products:
     priceRange: "220-350 €"
     pros: ["Cambia de altura con un botón", "Memoria de posiciones favoritas", "Estructura estable"]
     cons: ["Precio más alto", "Necesita toma eléctrica cerca"]
-    affiliateUrl: "https://www.amazon.es/s?k=escritorio+elevable+electrico&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=escritorio+elevable+electrico&tag=casaorganiz0b-21"
   - name: "Convertidor de escritorio elevable (sobremesa)"
     priceRange: "70-120 €"
     pros: ["Se coloca sobre tu escritorio actual", "No requiere instalación", "Mucho más barato"]
     cons: ["Ocupa espacio en altura", "Menos elegante visualmente"]
-    affiliateUrl: "https://www.amazon.es/s?k=convertidor+escritorio+elevable&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=convertidor+escritorio+elevable&tag=casaorganiz0b-21"
 ---
 
 Pasar el día sentado sin moverse tiene un coste real en la espalda y en la energía general. Los escritorios elevables (de pie/sentado) no son magia, pero alternar postura durante el día sí tiene respaldo dentro de la literatura de ergonomía laboral.

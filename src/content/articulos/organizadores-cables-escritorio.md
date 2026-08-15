@@ -8,12 +8,12 @@ products:
     priceRange: "10-16 €"
     pros: ["Oculta regletas y cargadores bajo la mesa", "Fácil de instalar con adhesivo o pinza"]
     cons: ["Capacidad limitada si tienes muchos cables gruesos"]
-    affiliateUrl: "https://www.amazon.es/s?k=canaleta+pasacables+mesa&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=canaleta+pasacables+mesa&tag=casaorganiz0b-21"
   - name: "Clips organizadores de cable (pack)"
     priceRange: "5-9 €"
     pros: ["Precio bajo", "Evitan que los cables se caigan detrás de la mesa"]
     cons: ["Solución parcial, no oculta el cableado grueso"]
-    affiliateUrl: "https://www.amazon.es/s?k=clips+organizadores+cable&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=clips+organizadores+cable&tag=casaorganiz0b-21"
 ---
 
 El cableado suelto no solo se ve mal: acumula polvo, dificulta la limpieza y hace más difícil identificar qué cable es cuál cuando algo falla.

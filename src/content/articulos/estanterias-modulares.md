@@ -8,17 +8,17 @@ products:
     priceRange: "30-60 €"
     pros: ["Configuración totalmente personalizable", "Se puede ampliar añadiendo más cubos", "Buen efecto visual y orden"]
     cons: ["Montaje algo más laborioso que una estantería fija", "El plástico o MDF barato puede combarse con peso alto"]
-    affiliateUrl: "https://www.amazon.es/s?k=estanteria+cubos+apilables&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=estanteria+cubos+apilables&tag=casaorganiz0b-21"
   - name: "Estantería metálica de rejilla con ruedas"
     priceRange: "35-70 €"
     pros: ["Resistente, soporta bastante peso", "Las ruedas permiten moverla según necesidad", "Buena para garaje, cocina o trastero"]
     cons: ["Estética más industrial, no encaja en todos los estilos", "Puede ocupar más fondo que otras opciones"]
-    affiliateUrl: "https://www.amazon.es/s?k=estanteria+metalica+rejilla+ruedas&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=estanteria+metalica+rejilla+ruedas&tag=casaorganiz0b-21"
   - name: "Estantería de baldas ajustables en altura"
     priceRange: "25-50 €"
     pros: ["Se adapta a objetos de distintas alturas", "Buena opción intermedia en precio y resistencia"]
     cons: ["Requiere fijación a pared para máxima estabilidad"]
-    affiliateUrl: "https://www.amazon.es/s?k=estanteria+baldas+ajustables&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=estanteria+baldas+ajustables&tag=casaorganiz0b-21"
 ---
 
 Una estantería modular resuelve el problema de fondo del almacenaje: las necesidades cambian con el tiempo, y un mueble fijo no siempre se adapta. Los sistemas modulares permiten crecer o reconfigurar sin comprar mueble nuevo.

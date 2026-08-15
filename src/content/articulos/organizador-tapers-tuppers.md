@@ -8,17 +8,17 @@ products:
     priceRange: "12-20 €"
     pros: ["Los tápers quedan de pie y visibles, no apilados sin orden", "Ajustable a distintos anchos de armario"]
     cons: ["Requiere cierto hábito de devolver cada táper a su hueco tras usarlo"]
-    affiliateUrl: "https://www.amazon.es/s?k=soporte+vertical+tapers&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=soporte+vertical+tapers&tag=casaorganiz0b-21"
   - name: "Organizador de tapas con ranuras"
     priceRange: "8-15 €"
     pros: ["Resuelve específicamente el problema de las tapas sueltas", "Ocupa poco espacio de armario"]
     cons: ["Solo cubre tapas, hace falta combinarlo con un sistema para los cuerpos"]
-    affiliateUrl: "https://www.amazon.es/s?k=organizador+tapas+tapers&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=organizador+tapas+tapers&tag=casaorganiz0b-21"
   - name: "Set de tápers apilables con tapas a juego"
     priceRange: "20-35 € el set"
     pros: ["Al ser todos del mismo sistema, apilan sin huecos perdidos", "Sustituye tápers sueltos de distintas marcas por un sistema único"]
     cons: ["Requiere sustituir los tápers existentes, no es solo un organizador"]
-    affiliateUrl: "https://www.amazon.es/s?k=set+tapers+apilables+tapas&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=set+tapers+apilables+tapas&tag=casaorganiz0b-21"
 ---
 
 El cajón o armario de los tápers es, en la mayoría de cocinas, el que más rápido se desordena: cuerpos sin su tapa, tamaños distintos apilados sin criterio.

@@ -8,17 +8,17 @@ products:
     priceRange: "15-28 €"
     pros: ["Los ganchos se mueven sin herramientas", "Bueno para herramientas de mango largo (escobas, rastrillos)"]
     cons: ["Menor capacidad de carga que un raíl reforzado"]
-    affiliateUrl: "https://www.amazon.es/s?k=panel+ganchos+garaje&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=panel+ganchos+garaje&tag=casaorganiz0b-21"
   - name: "Sistema de raíl modular con accesorios"
     priceRange: "35-70 €"
     pros: ["Muy resistente, pensado para cargas pesadas", "Accesorios intercambiables (cestas, ganchos, estantes)"]
     cons: ["Instalación más laboriosa y precio inicial más alto"]
-    affiliateUrl: "https://www.amazon.es/s?k=sistema+rail+modular+garaje&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=sistema+rail+modular+garaje&tag=casaorganiz0b-21"
   - name: "Estantería de pared plegable"
     priceRange: "20-35 €"
     pros: ["Se pliega contra la pared cuando no se usa, libera espacio de paso", "Útil para banco de trabajo ocasional"]
     cons: ["Capacidad de peso menor que una estantería fija"]
-    affiliateUrl: "https://www.amazon.es/s?k=estanteria+pared+plegable+garaje&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=estanteria+pared+plegable+garaje&tag=casaorganiz0b-21"
 ---
 
 El garaje suele terminar como el cuarto trastero de la casa por defecto. Organizar la pared en vez de amontonar en el suelo es la diferencia entre poder aparcar el coche o no.

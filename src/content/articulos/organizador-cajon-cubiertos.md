@@ -8,17 +8,17 @@ products:
     priceRange: "8-15 €"
     pros: ["Se adapta a cajones de distintas medidas", "Precio bajo", "Fácil de limpiar"]
     cons: ["Menos resistente a largo plazo que la madera o el bambú"]
-    affiliateUrl: "https://www.amazon.es/s?k=organizador+cajon+cubiertos+ajustable&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=organizador+cajon+cubiertos+ajustable&tag=casaorganiz0b-21"
   - name: "Organizador de bambú con compartimentos fijos"
     priceRange: "15-25 €"
     pros: ["Más duradero y resistente a la humedad que el plástico", "Estética más cuidada"]
     cons: ["Compartimentos de tamaño fijo, no se puede reconfigurar"]
-    affiliateUrl: "https://www.amazon.es/s?k=organizador+cajon+bambu+cubiertos&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=organizador+cajon+bambu+cubiertos&tag=casaorganiz0b-21"
   - name: "Sistema apilable de dos niveles para cajón profundo"
     priceRange: "18-30 €"
     pros: ["Aprovecha cajones profundos duplicando la capacidad", "Separa utensilios grandes de cubiertos pequeños"]
     cons: ["Solo compensa en cajones con suficiente profundidad"]
-    affiliateUrl: "https://www.amazon.es/s?k=organizador+cajon+cocina+dos+niveles&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=organizador+cajon+cocina+dos+niveles&tag=casaorganiz0b-21"
 ---
 
 El cajón de cubiertos es de los primeros en desordenarse en cualquier cocina: cucharas, utensilios y accesorios sueltos que acaban mezclados. Un organizador bien elegido soluciona esto de forma permanente.

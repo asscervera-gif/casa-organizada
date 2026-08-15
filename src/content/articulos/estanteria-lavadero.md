@@ -8,17 +8,17 @@ products:
     priceRange: "35-65 €"
     pros: ["No se oxida ni se deteriora con la humedad ambiente del lavadero", "Soporta bien el peso de detergentes y productos de limpieza"]
     cons: ["Precio más alto que las estanterías de plástico o aglomerado"]
-    affiliateUrl: "https://www.amazon.es/s?k=estanteria+acero+inoxidable+lavadero&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=estanteria+acero+inoxidable+lavadero&tag=casaorganiz0b-21"
   - name: "Carro auxiliar con ruedas y varios niveles"
     priceRange: "25-45 €"
     pros: ["Se puede mover para limpiar detrás o usar en otra zona puntualmente", "Buena capacidad para detergentes y cestas de ropa"]
     cons: ["Las ruedas de gama baja pueden fallar con carga pesada"]
-    affiliateUrl: "https://www.amazon.es/s?k=carro+auxiliar+ruedas+lavadero&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=carro+auxiliar+ruedas+lavadero&tag=casaorganiz0b-21"
   - name: "Balda sobre lavadora o secadora"
     priceRange: "18-30 €"
     pros: ["Aprovecha el espacio superior sin ocupar más suelo", "Instalación sencilla en la mayoría de electrodomésticos estándar"]
     cons: ["No compatible con todos los modelos de lavadora según su altura y ancho"]
-    affiliateUrl: "https://www.amazon.es/s?k=balda+sobre+lavadora&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=balda+sobre+lavadora&tag=casaorganiz0b-21"
 ---
 
 El lavadero suele ser una de las zonas más pequeñas y húmedas de la casa, lo que hace que muchos muebles de almacenaje estándar no sean la mejor opción por su durabilidad.

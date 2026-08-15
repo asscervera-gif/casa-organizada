@@ -8,17 +8,17 @@ products:
     priceRange: "12-22 € el set"
     pros: ["Reducen el volumen de la ropa hasta un 70-80%", "Protegen de polvo, humedad y polillas"]
     cons: ["Necesitan aspiradora para extraer el aire, no son autónomas"]
-    affiliateUrl: "https://www.amazon.es/s?k=bolsas+vacio+ropa+aspiradora&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=bolsas+vacio+ropa+aspiradora&tag=casaorganiz0b-21"
   - name: "Bolsas de vacío manuales sin aspiradora"
     priceRange: "10-18 € el set"
     pros: ["Se comprimen enrollando a mano, útiles si no tienes aspiradora a mano", "Buenas para maletas y viajes"]
     cons: ["La compresión manual es menor que con aspiradora"]
-    affiliateUrl: "https://www.amazon.es/s?k=bolsas+vacio+manuales+ropa&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=bolsas+vacio+manuales+ropa&tag=casaorganiz0b-21"
   - name: "Bolsas de viaje enrollables (sin sellado hermético)"
     priceRange: "8-15 € el set"
     pros: ["Muy ligeras, pensadas para reducir volumen en la maleta", "Reutilizables sin necesidad de sellar con calor"]
     cons: ["No ofrecen protección hermética frente a humedad como las de vacío real"]
-    affiliateUrl: "https://www.amazon.es/s?k=bolsas+viaje+enrollables+ropa&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=bolsas+viaje+enrollables+ropa&tag=casaorganiz0b-21"
 ---
 
 Guardar la ropa de temporada sin comprimir ocupa el doble de espacio del necesario en el armario. Las bolsas de vacío son de las soluciones más baratas para ganar espacio real sin comprar mueble nuevo.

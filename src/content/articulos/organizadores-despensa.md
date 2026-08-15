@@ -8,12 +8,12 @@ products:
     priceRange: "20-35 €"
     pros: ["Mantiene la comida fresca más tiempo", "Uniformidad visual, ahorra espacio", "Fáciles de etiquetar"]
     cons: ["Inversión inicial más alta que reutilizar envases"]
-    affiliateUrl: "https://www.amazon.es/s?k=botes+hermeticos+despensa&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=botes+hermeticos+despensa&tag=casaorganiz0b-21"
   - name: "Estante escalonado para despensa"
     priceRange: "12-20 €"
     pros: ["Permite ver todo el contenido de un vistazo", "Aprovecha estantes profundos"]
     cons: ["Ocupa algo de altura, no apto para estantes bajos"]
-    affiliateUrl: "https://www.amazon.es/s?k=estante+escalonado+despensa&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=estante+escalonado+despensa&tag=casaorganiz0b-21"
 ---
 
 Los estantes profundos de despensa son de los espacios peor aprovechados de la cocina: lo que queda al fondo desaparece de la vista y acaba caducando sin usarse.

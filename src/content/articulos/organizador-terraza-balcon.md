@@ -8,17 +8,17 @@ products:
     priceRange: "40-80 €"
     pros: ["Guarda cojines y accesorios protegidos de la lluvia", "Puede usarse también como asiento o mesa auxiliar"]
     cons: ["Ocupa espacio fijo, hay que planificar bien su ubicación en terrazas pequeñas"]
-    affiliateUrl: "https://www.amazon.es/s?k=baul+exterior+resistente+agua&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=baul+exterior+resistente+agua&tag=casaorganiz0b-21"
   - name: "Estantería escalonada para macetas"
     priceRange: "20-40 €"
     pros: ["Aprovecha el espacio vertical para varias plantas", "Mejora la exposición al sol de cada nivel"]
     cons: ["No apta para macetas muy pesadas en los niveles superiores según el modelo"]
-    affiliateUrl: "https://www.amazon.es/s?k=estanteria+escalonada+macetas&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=estanteria+escalonada+macetas&tag=casaorganiz0b-21"
   - name: "Funda organizadora para cojines de exterior"
     priceRange: "12-22 €"
     pros: ["Más económica que un baúl completo", "Fácil de plegar y guardar cuando no hace falta"]
     cons: ["Menos protección frente a lluvia intensa que un baúl rígido"]
-    affiliateUrl: "https://www.amazon.es/s?k=funda+organizadora+cojines+exterior&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=funda+organizadora+cojines+exterior&tag=casaorganiz0b-21"
 ---
 
 Una terraza o balcón pequeño se aprovecha mucho mejor con el mobiliario de almacenaje adecuado, que además protege cojines y plantas de la intemperie entre usos.

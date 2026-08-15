@@ -8,17 +8,17 @@ products:
     priceRange: "18-32 €"
     pros: ["Transparente, se ve el contenido de cada cajón", "Aprovecha el espacio vertical del tocador"]
     cons: ["El acrílico económico puede rayarse con el uso diario"]
-    affiliateUrl: "https://www.amazon.es/s?k=torre+cajones+acrilicos+maquillaje&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=torre+cajones+acrilicos+maquillaje&tag=casaorganiz0b-21"
   - name: "Bandeja giratoria de dos niveles"
     priceRange: "12-20 €"
     pros: ["Acceso rápido a todo con un giro", "Buena para productos de uso diario en la encimera"]
     cons: ["Menor capacidad que una torre de cajones para colecciones grandes"]
-    affiliateUrl: "https://www.amazon.es/s?k=bandeja+giratoria+maquillaje&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=bandeja+giratoria+maquillaje&tag=casaorganiz0b-21"
   - name: "Organizador vertical para brochas y pinceles"
     priceRange: "8-15 €"
     pros: ["Mantiene las brochas separadas y sin deformarse", "Ocupa poco espacio de superficie"]
     cons: ["Solo cubre brochas, no el resto del maquillaje"]
-    affiliateUrl: "https://www.amazon.es/s?k=organizador+brochas+maquillaje&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=organizador+brochas+maquillaje&tag=casaorganiz0b-21"
 ---
 
 Una colección de maquillaje sin organizar no solo es difícil de usar cada mañana, también hace que productos se echen a perder al fondo de un cajón sin usarse.

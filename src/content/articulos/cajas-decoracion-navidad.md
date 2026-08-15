@@ -8,17 +8,17 @@ products:
     priceRange: "15-28 €"
     pros: ["Cada bola va protegida por separado, reduce roturas de un año a otro", "Apilable con otras cajas de temporada"]
     cons: ["Capacidad limitada al número de compartimentos fijos"]
-    affiliateUrl: "https://www.amazon.es/s?k=caja+compartimentos+bolas+navidad&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=caja+compartimentos+bolas+navidad&tag=casaorganiz0b-21"
   - name: "Funda con ruedas para árbol artificial"
     priceRange: "18-30 €"
     pros: ["Protege el árbol del polvo y la humedad durante el resto del año", "Las ruedas facilitan mover un árbol grande y pesado"]
     cons: ["Necesita bastante espacio de altillo o trastero según el tamaño del árbol"]
-    affiliateUrl: "https://www.amazon.es/s?k=funda+ruedas+arbol+navidad&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=funda+ruedas+arbol+navidad&tag=casaorganiz0b-21"
   - name: "Organizador de carretes para guirnaldas de luces"
     priceRange: "8-15 €"
     pros: ["Evita el enredo típico de las luces de un año para otro", "Ahorra tiempo real al montar la decoración"]
     cons: ["Solo cubre las luces, hace falta combinarlo con otras cajas para el resto de adornos"]
-    affiliateUrl: "https://www.amazon.es/s?k=organizador+carretes+luces+navidad&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=organizador+carretes+luces+navidad&tag=casaorganiz0b-21"
 ---
 
 Guardar la decoración navideña sin sistema es la razón por la que cada año aparecen bolas rotas y luces hechas un nudo. Un par de accesorios específicos evitan ambos problemas.

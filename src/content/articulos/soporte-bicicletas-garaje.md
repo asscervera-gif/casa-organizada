@@ -8,17 +8,17 @@ products:
     priceRange: "12-22 €"
     pros: ["Ocupa el mínimo espacio de suelo posible", "Instalación sencilla en la mayoría de paredes"]
     cons: ["Requiere taladrar y comprobar que la pared aguanta el peso"]
-    affiliateUrl: "https://www.amazon.es/s?k=soporte+pared+bicicleta&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=soporte+pared+bicicleta&tag=casaorganiz0b-21"
   - name: "Soporte de pie independiente (sin taladro)"
     priceRange: "20-35 €"
     pros: ["No requiere instalación fija, se puede mover", "Válido para varias bicicletas según el modelo"]
     cons: ["Ocupa más espacio de suelo que un soporte de pared"]
-    affiliateUrl: "https://www.amazon.es/s?k=soporte+pie+bicicleta+garaje&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=soporte+pie+bicicleta+garaje&tag=casaorganiz0b-21"
   - name: "Elevador de techo con poleas"
     priceRange: "25-45 €"
     pros: ["Libera por completo el espacio de suelo y pared", "Ideal para garajes con poco espacio lateral"]
     cons: ["Instalación más compleja, necesita techo resistente y altura suficiente"]
-    affiliateUrl: "https://www.amazon.es/s?k=elevador+techo+bicicleta&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=elevador+techo+bicicleta&tag=casaorganiz0b-21"
 ---
 
 En un garaje o trastero pequeño, una bicicleta apoyada en el suelo puede ocupar el paso y acabar dañada por golpes. Un soporte específico resuelve ambos problemas a la vez.

@@ -8,17 +8,17 @@ products:
     priceRange: "12-22 €"
     pros: ["Permite separar por tipo (dolor, fiebre, primeros auxilios) o por persona de la familia", "Fácil de revisar caducidades de un vistazo"]
     cons: ["Ocupa un espacio fijo de armario o cajón"]
-    affiliateUrl: "https://www.amazon.es/s?k=caja+organizadora+botiquin+compartimentos&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=caja+organizadora+botiquin+compartimentos&tag=casaorganiz0b-21"
   - name: "Pastillero semanal con varios compartimentos diarios"
     priceRange: "6-15 €"
     pros: ["Reduce olvidos en tratamientos con varias tomas al día", "Compacto, cabe en cualquier bolso o cajón"]
     cons: ["Solo cubre medicación de uso rutinario, no sustituye al botiquín completo"]
-    affiliateUrl: "https://www.amazon.es/s?k=pastillero+semanal+compartimentos&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=pastillero+semanal+compartimentos&tag=casaorganiz0b-21"
   - name: "Botiquín de pared con cerradura o cierre de seguridad"
     priceRange: "20-40 €"
     pros: ["Mantiene los medicamentos fuera del alcance de niños", "Centraliza todo en un punto fijo y conocido por toda la familia"]
     cons: ["Necesita instalación en pared, no es portátil"]
-    affiliateUrl: "https://www.amazon.es/s?k=botiquin+pared+cierre+seguridad&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=botiquin+pared+cierre+seguridad&tag=casaorganiz0b-21"
 ---
 
 Un botiquín desordenado no es solo un problema de espacio: en una urgencia real, no encontrar rápido lo que se necesita es el peor momento para descubrirlo.

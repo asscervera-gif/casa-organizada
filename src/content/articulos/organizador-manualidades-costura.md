@@ -8,17 +8,17 @@ products:
     priceRange: "15-28 €"
     pros: ["Los compartimentos se reconfiguran según el material que guardes", "Transparente, se ve el contenido sin abrir"]
     cons: ["Compartimentos pequeños no siempre valen para material voluminoso (telas, cartulinas grandes)"]
-    affiliateUrl: "https://www.amazon.es/s?k=caja+organizadora+manualidades&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=caja+organizadora+manualidades&tag=casaorganiz0b-21"
   - name: "Costurero de varios niveles con asa"
     priceRange: "20-35 €"
     pros: ["Compartimentos específicos para hilos, agujas y tijeras", "Portátil, fácil de guardar y transportar"]
     cons: ["Capacidad limitada si la colección de costura es grande"]
-    affiliateUrl: "https://www.amazon.es/s?k=costurero+varios+niveles&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=costurero+varios+niveles&tag=casaorganiz0b-21"
   - name: "Organizador de carretes de hilo en torre"
     priceRange: "10-18 €"
     pros: ["Todos los colores visibles de un vistazo", "Evita que los hilos se enreden entre sí"]
     cons: ["Solo cubre hilos, hace falta combinarlo con otro organizador para el resto del material"]
-    affiliateUrl: "https://www.amazon.es/s?k=organizador+carretes+hilo&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=organizador+carretes+hilo&tag=casaorganiz0b-21"
 ---
 
 El material de manualidades y costura tiende a acumularse en piezas pequeñas y variadas que se pierden con facilidad si no hay un sistema claro de organización.

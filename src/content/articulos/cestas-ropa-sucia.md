@@ -8,17 +8,17 @@ products:
     priceRange: "12-20 €"
     pros: ["Se pliega plana cuando no se usa", "Ligera y fácil de transportar hasta la lavadora", "Barata"]
     cons: ["No es rígida, cuesta que se mantenga en pie sola cuando está vacía"]
-    affiliateUrl: "https://www.amazon.es/s?k=cesta+ropa+sucia+plegable&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=cesta+ropa+sucia+plegable&tag=casaorganiz0b-21"
   - name: "Cesta con ruedas y 2-3 compartimentos"
     priceRange: "25-40 €"
     pros: ["Permite separar colores/tejidos desde el principio", "Las ruedas facilitan mover ropa pesada", "Ideal para familias"]
     cons: ["Ocupa más espacio fijo en el suelo", "Precio más alto que una cesta simple"]
-    affiliateUrl: "https://www.amazon.es/s?k=cesta+ropa+sucia+ruedas+compartimentos&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=cesta+ropa+sucia+ruedas+compartimentos&tag=casaorganiz0b-21"
   - name: "Bolsa cesta colgante para puerta"
     priceRange: "8-15 €"
     pros: ["Cero espacio de suelo ocupado", "Perfecta para habitaciones pequeñas o pisos compartidos"]
     cons: ["Capacidad limitada, hay que vaciarla con más frecuencia"]
-    affiliateUrl: "https://www.amazon.es/s?k=cesta+ropa+sucia+colgante+puerta&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=cesta+ropa+sucia+colgante+puerta&tag=casaorganiz0b-21"
 ---
 
 Elegir bien la cesta de la ropa sucia parece un detalle menor, pero cambia el hábito de separar la colada desde el primer día en vez de amontonarla y tener que clasificarla después.

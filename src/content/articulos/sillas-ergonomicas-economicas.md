@@ -8,12 +8,12 @@ products:
     priceRange: "110-170 €"
     pros: ["Reposabrazos regulables", "Buen soporte lumbar de serie", "Malla transpirable"]
     cons: ["El reposacabezas suele ser fijo en este rango de precio"]
-    affiliateUrl: "https://www.amazon.es/s?k=silla+oficina+soporte+lumbar&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=silla+oficina+soporte+lumbar&tag=casaorganiz0b-21"
   - name: "Cojín lumbar independiente"
     priceRange: "18-25 €"
     pros: ["Se adapta a cualquier silla que ya tengas", "Alternativa barata a cambiar de silla"]
     cons: ["No sustituye una silla mal diseñada, solo mejora el apoyo lumbar"]
-    affiliateUrl: "https://www.amazon.es/s?k=cojin+lumbar+silla+oficina&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=cojin+lumbar+silla+oficina&tag=casaorganiz0b-21"
 ---
 
 La mayoría de dolores de espalda por teletrabajo no vienen de la falta de una silla "gaming" cara, sino de tres cosas concretas: falta de apoyo lumbar, altura mal ajustada y horas seguidas sin moverse.

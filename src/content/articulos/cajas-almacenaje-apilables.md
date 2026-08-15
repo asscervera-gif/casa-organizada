@@ -8,12 +8,12 @@ products:
     priceRange: "8-14 €"
     pros: ["Cierre por clips resistente", "Apilable de forma estable", "Buena transparencia para ver el contenido"]
     cons: ["No es 100% hermética frente al agua"]
-    affiliateUrl: "https://www.amazon.es/s?k=caja+plastico+apilable+tapa+clip&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=caja+plastico+apilable+tapa+clip&tag=casaorganiz0b-21"
   - name: "Caja hermética con junta de goma"
     priceRange: "18-28 €"
     pros: ["Protege de humedad y polvo", "Ideal para ropa de temporada o documentos"]
     cons: ["Más cara que una caja estándar", "Algo más pesada"]
-    affiliateUrl: "https://www.amazon.es/s?k=caja+hermetica+almacenaje&tag=AFFILIATE_ID_PENDING"
+    affiliateUrl: "https://www.amazon.es/s?k=caja+hermetica+almacenaje&tag=casaorganiz0b-21"
 ---
 
 Antes de llenar el trastero de cajas de cartón que se humedecen y se rompen, merece la pena invertir en cajas de plástico apilables: duran años y protegen mejor el contenido.

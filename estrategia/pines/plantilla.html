@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<style>
+  @font-face {
+    font-family: 'PinSerif';
+    src: local('Georgia');
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    width: 1000px;
+    height: 1500px;
+    background: #f4f1ea;
+    font-family: Georgia, 'Iowan Old Style', serif;
+    position: relative;
+    overflow: hidden;
+  }
+  .border-frame {
+    position: absolute;
+    inset: 28px;
+    border: 2px solid #2d6a4f;
+  }
+  .content {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 90px 80px;
+  }
+  .top-block { flex: 1; display: flex; flex-direction: column; justify-content: center; }
+  .cta-row {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    margin-top: 50px;
+  }
+  .cta-dot { width: 10px; height: 10px; border-radius: 50%; background: #2d6a4f; }
+  .cta-text {
+    font-family: system-ui, sans-serif;
+    font-size: 24px;
+    color: #2d6a4f;
+    font-weight: 600;
+  }
+  .brand { margin-top: 70px; }
+  .eyebrow {
+    font-family: Georgia, serif;
+    font-size: 22px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: #2d6a4f;
+    font-weight: 700;
+  }
+  .title {
+    font-size: 64px;
+    line-height: 1.18;
+    color: #1c1c1a;
+    font-weight: 600;
+    letter-spacing: -0.01em;
+  }
+  .divider {
+    width: 90px;
+    height: 4px;
+    background: #2d6a4f;
+    margin: 34px 0;
+  }
+  .subtitle {
+    font-family: system-ui, sans-serif;
+    font-size: 26px;
+    color: #6b6b63;
+    line-height: 1.5;
+    max-width: 780px;
+  }
+  .brand {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .brand-name {
+    font-family: Georgia, serif;
+    font-size: 30px;
+    font-weight: 700;
+    color: #1c1c1a;
+  }
+  .brand-tag {
+    font-family: system-ui, sans-serif;
+    font-size: 20px;
+    color: #6b6b63;
+  }
+</style>
+</head>
+<body>
+  <div class="border-frame"></div>
+  <div class="content">
+    <div class="top-block">
+      <div class="eyebrow">Guía de compra</div>
+      <div class="divider"></div>
+      <div class="title" id="titulo">TÍTULO DEL ARTÍCULO</div>
+      <p class="subtitle" id="subtitulo">Subtítulo breve del artículo</p>
+      <div class="cta-row">
+        <div class="cta-dot"></div>
+        <div class="cta-text">Guía completa con precios y comparativa</div>
+      </div>
+    </div>
+    <div class="brand">
+      <div class="brand-name">Casa Organizada</div>
+      <div class="brand-tag">Comparativas honestas</div>
+    </div>
+  </div>
+</body>
+</html>

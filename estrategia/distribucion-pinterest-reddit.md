@@ -21,7 +21,15 @@ Copia y pega directamente. Sustituye `[URL]` por la URL real del sitio en cuanto
 | perchero-pie-entrada | El mueble que resuelve el caos de la entrada de casa | Perchero simple, con paraguero o con banco de almacenaje — guía de compra → [URL]/articulos/perchero-pie-entrada/ |
 | organizador-mesita-noche | Mesita de noche sin caos: 3 accesorios que ayudan de verdad | Bandeja de cajón, soporte de carga y organizador de cabecero — comparativa → [URL]/articulos/organizador-mesita-noche/ |
 
-*(El resto de artículos ya publicados siguen el mismo patrón — pídeme que complete la tabla si quieres las 22 entradas antes de empezar a publicar pines.)*
+| cajas-almacenaje-apilables | Cajas apilables: las que sí aguantan en trastero o garaje | Resistencia, cierre hermético y transporte — comparativa para no comprar dos veces → [URL]/articulos/cajas-almacenaje-apilables/ |
+| escritorios-elevables | ¿Merece la pena un escritorio elevable? | Eléctrico vs manual, y qué modelos dan mejor relación calidad-precio → [URL]/articulos/escritorios-elevables/ |
+| etiquetadoras-hogar | Etiquetadora de cinta o térmica Bluetooth: cuál te conviene | Comparativa para organizar cajas, tarros y carpetas de una vez → [URL]/articulos/etiquetadoras-hogar/ |
+| organizadores-cables-escritorio | Adiós al nido de cables bajo el escritorio | Canaletas, bandejas pasacables y clips — la combinación que de verdad funciona → [URL]/articulos/organizadores-cables-escritorio/ |
+| organizadores-despensa | La despensa deja de ser un caos con estos 3 accesorios | Botes herméticos, cestas extraíbles y estantes escalonados → [URL]/articulos/organizadores-despensa/ |
+| paneles-pegboard | El panel pegboard: la forma más flexible de organizar herramientas | Cómo montarlo para herramientas, oficina o accesorios de escritorio → [URL]/articulos/paneles-pegboard/ |
+| sillas-ergonomicas-economicas | Silla ergonómica por menos de 200 €: qué mirar de verdad | No hace falta una silla gaming cara — te contamos qué importa realmente → [URL]/articulos/sillas-ergonomicas-economicas/ |
+
+Tabla completa: las 21 entradas publicadas están cubiertas.
 
 ## Reddit — cómo publicar sin que lo borren
 

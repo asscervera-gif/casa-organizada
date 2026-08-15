@@ -29,7 +29,23 @@ Copia y pega directamente. Sustituye `[URL]` por la URL real del sitio en cuanto
 | paneles-pegboard | El panel pegboard: la forma más flexible de organizar herramientas | Cómo montarlo para herramientas, oficina o accesorios de escritorio → [URL]/articulos/paneles-pegboard/ |
 | sillas-ergonomicas-economicas | Silla ergonómica por menos de 200 €: qué mirar de verdad | No hace falta una silla gaming cara — te contamos qué importa realmente → [URL]/articulos/sillas-ergonomicas-economicas/ |
 
-Tabla completa: las 21 entradas publicadas están cubiertas.
+| organizador-herramientas-caja | Herramientas siempre a mano: 3 sistemas que funcionan | Caja con bandeja, sistema modular o mochila técnica — cuál según tu taller → [URL]/articulos/organizador-herramientas-caja/ |
+| organizador-juguetes-infantil | El truco para que los niños recojan solos su cuarto | Mueble cubo con colores, cestas o bolsa colgante — comparativa → [URL]/articulos/organizador-juguetes-infantil/ |
+| organizador-especias-cocina | Especias siempre a mano al cocinar | Estante escalonado, carrusel giratorio o botes magnéticos → [URL]/articulos/organizador-especias-cocina/ |
+| cajas-decoracion-navidad | Así se guarda la decoración de Navidad sin que se rompa | Cajas con compartimentos, funda para árbol y organizador de luces → [URL]/articulos/cajas-decoracion-navidad/ |
+| soporte-bicicletas-garaje | La bicicleta ya no tiene que ocupar el paso del garaje | Soporte de pared, de pie o elevador de techo — comparativa → [URL]/articulos/soporte-bicicletas-garaje/ |
+| organizador-bolsos-armario | Bolsos sin perder la forma ni llenarse de polvo | Estante inclinado, colgante o fundas transparentes — cuál según tu colección → [URL]/articulos/organizador-bolsos-armario/ |
+| organizador-botiquin-medicamentos | El botiquín que sí encuentras en una urgencia | Caja etiquetable, pastillero semanal o botiquín con cierre de seguridad → [URL]/articulos/organizador-botiquin-medicamentos/ |
+| estanteria-lavadero | Estanterías que sí aguantan la humedad del lavadero | Acero inoxidable, carro con ruedas o balda sobre lavadora → [URL]/articulos/estanteria-lavadero/ |
+| organizador-tapers-tuppers | Adiós al cajón de tápers imposible de cerrar | Soporte vertical, organizador de tapas o set apilable homogéneo → [URL]/articulos/organizador-tapers-tuppers/ |
+| organizador-documentos-oficina-casa | Encuentra cualquier factura en segundos | Archivador de sobremesa, carpetas clasificadoras o cajas de archivo → [URL]/articulos/organizador-documentos-oficina-casa/ |
+| bolsas-vacio-ropa-temporada | El truco de 15€ para duplicar espacio de armario | Bolsas de vacío con aspiradora, manuales o de viaje — comparativa → [URL]/articulos/bolsas-vacio-ropa-temporada/ |
+| organizador-mascotas-comida | Todo lo de tu mascota, en un solo sitio | Contenedor hermético con ruedas, dispensador con medidor u organizador de accesorios → [URL]/articulos/organizador-mascotas-comida/ |
+| organizador-manualidades-costura | El material de costura ya no se pierde | Caja de compartimentos, costurero portátil o torre de hilos → [URL]/articulos/organizador-manualidades-costura/ |
+| organizador-terraza-balcon | Así se aprovecha una terraza pequeña | Baúl de exterior, estantería de macetas o funda para cojines → [URL]/articulos/organizador-terraza-balcon/ |
+| organizador-asiento-coche | El coche ordenado en trayectos largos con niños | Organizador colgante, soporte de tablet o bandeja plegable → [URL]/articulos/organizador-asiento-coche/ |
+
+Tabla completa: las 40 entradas publicadas están cubiertas.
 
 ## Reddit — cómo publicar sin que lo borren
 

@@ -7,7 +7,8 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "nuevo-articulo": "node scripts/generar_articulo.mjs"
+    "nuevo-articulo": "node scripts/generar_articulo.mjs",
+    "verificar": "node scripts/verificar_lanzamiento.mjs"
   },
   "dependencies": {
     "astro": "^5.0.0",

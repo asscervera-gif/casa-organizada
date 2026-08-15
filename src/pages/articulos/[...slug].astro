@@ -1,0 +1,42 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const articulos = await getCollection('articulos');
+  return articulos.map((articulo) => ({
+    params: { slug: articulo.slug },
+    props: { articulo },
+  }));
+}
+
+const { articulo } = Astro.props;
+const { Content } = await articulo.render();
+---
+<Layout title={articulo.data.title} description={articulo.data.description}>
+  <p class="meta">{articulo.data.category} · Actualizado {articulo.data.pubDate.toLocaleDateString('es-ES')}</p>
+  <h1>{articulo.data.title}</h1>
+
+  <div class="disclosure">
+    Divulgación: esta página contiene enlaces de afiliado. Como afiliados de Amazon, podemos obtener una comisión por las compras que cumplan los requisitos aplicables, sin coste adicional para ti.
+  </div>
+
+  <Content />
+
+  {articulo.data.products.length > 0 && (
+    <>
+      <h2>Comparativa rápida</h2>
+      <div class="grid">
+        {articulo.data.products.map((p) => (
+          <div class="card">
+            <h3>{p.name}</h3>
+            <p class="meta">{p.priceRange}</p>
+            <p><strong>Pros:</strong> {p.pros.join(', ')}</p>
+            <p><strong>Contras:</strong> {p.cons.join(', ')}</p>
+            <a class="btn" href={p.affiliateUrl} rel="nofollow sponsored noopener" target="_blank">Ver precio</a>
+          </div>
+        ))}
+      </div>
+    </>
+  )}
+</Layout>

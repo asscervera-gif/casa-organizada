@@ -1,0 +1,26 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+
+const articulos = (await getCollection('articulos')).sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+---
+<Layout
+  title="Guías de organización y productividad para casa y oficina"
+  description="Comparativas y guías de compra honestas sobre almacenaje, escritorios y gadgets para organizar tu casa u oficina."
+>
+  <h1>Organización y productividad para casa y oficina</h1>
+  <p class="meta">Comparativas y guías de compra actualizadas.</p>
+
+  <div class="grid">
+    {articulos.map((articulo) => (
+      <div class="card">
+        <h2><a href={`/articulos/${articulo.slug}/`}>{articulo.data.title}</a></h2>
+        <p class="meta">{articulo.data.category} · {articulo.data.pubDate.toLocaleDateString('es-ES')}</p>
+        <p>{articulo.data.description}</p>
+        <a class="btn" href={`/articulos/${articulo.slug}/`}>Leer guía</a>
+      </div>
+    ))}
+  </div>
+</Layout>

@@ -6,14 +6,27 @@ export async function getStaticPaths() {
   const articulos = await getCollection('articulos');
   return articulos.map((articulo) => ({
     params: { slug: articulo.slug },
-    props: { articulo },
+    props: { articulo, todos: articulos },
   }));
 }
 
-const { articulo } = Astro.props;
+const { articulo, todos } = Astro.props;
 const { Content } = await articulo.render();
+
+const relacionados = todos
+  .filter((a) => a.slug !== articulo.slug && a.data.category === articulo.data.category)
+  .slice(0, 3);
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: articulo.data.title,
+  description: articulo.data.description,
+  datePublished: articulo.data.pubDate.toISOString(),
+};
 ---
 <Layout title={articulo.data.title} description={articulo.data.description}>
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
   <p class="meta">{articulo.data.category} · Actualizado {articulo.data.pubDate.toLocaleDateString('es-ES')}</p>
   <h1>{articulo.data.title}</h1>
 
@@ -37,6 +50,17 @@ const { Content } = await articulo.render();
           </div>
         ))}
       </div>
+    </>
+  )}
+
+  {relacionados.length > 0 && (
+    <>
+      <h2>Guías relacionadas</h2>
+      <ul>
+        {relacionados.map((r) => (
+          <li><a href={`/articulos/${r.slug}/`}>{r.data.title}</a></li>
+        ))}
+      </ul>
     </>
   )}
 </Layout>

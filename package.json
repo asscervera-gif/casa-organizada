@@ -8,7 +8,9 @@
     "build": "astro build",
     "preview": "astro preview",
     "nuevo-articulo": "node scripts/generar_articulo.mjs",
-    "verificar": "node scripts/verificar_lanzamiento.mjs"
+    "verificar": "node scripts/verificar_lanzamiento.mjs",
+    "dominio": "node scripts/actualizar_dominio.mjs",
+    "afiliado": "node scripts/actualizar_afiliado.mjs"
   },
   "dependencies": {
     "astro": "^5.0.0",

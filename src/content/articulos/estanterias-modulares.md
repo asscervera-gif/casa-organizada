@@ -11,7 +11,7 @@ products:
     affiliateUrl: "https://www.amazon.es/s?k=estanteria+cubos+apilables&tag=AFFILIATE_ID_PENDING"
   - name: "Estantería metálica de rejilla con ruedas"
     priceRange: "35-70 €"
-    pros: ["Muy resistente, soporta bastante peso", "Las ruedas permiten moverla según necesidad", "Buena para garaje, cocina o trastero"]
+    pros: ["Resistente, soporta bastante peso", "Las ruedas permiten moverla según necesidad", "Buena para garaje, cocina o trastero"]
     cons: ["Estética más industrial, no encaja en todos los estilos", "Puede ocupar más fondo que otras opciones"]
     affiliateUrl: "https://www.amazon.es/s?k=estanteria+metalica+rejilla+ruedas&tag=AFFILIATE_ID_PENDING"
   - name: "Estantería de baldas ajustables en altura"

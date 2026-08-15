@@ -11,12 +11,12 @@ products:
     affiliateUrl: "https://www.amazon.es/s?k=silla+oficina+soporte+lumbar&tag=AFFILIATE_ID_PENDING"
   - name: "Cojín lumbar independiente"
     priceRange: "18-25 €"
-    pros: ["Se adapta a cualquier silla que ya tengas", "Alternativa muy barata a cambiar de silla"]
+    pros: ["Se adapta a cualquier silla que ya tengas", "Alternativa barata a cambiar de silla"]
     cons: ["No sustituye una silla mal diseñada, solo mejora el apoyo lumbar"]
     affiliateUrl: "https://www.amazon.es/s?k=cojin+lumbar+silla+oficina&tag=AFFILIATE_ID_PENDING"
 ---
 
-La mayoría de dolores de espalda por teletrabajo no vienen de la falta de una silla "gaming" cara, sino de tres cosas muy concretas: falta de apoyo lumbar, altura mal ajustada y horas seguidas sin moverse.
+La mayoría de dolores de espalda por teletrabajo no vienen de la falta de una silla "gaming" cara, sino de tres cosas concretas: falta de apoyo lumbar, altura mal ajustada y horas seguidas sin moverse.
 
 ## Las tres cosas que sí importan
 

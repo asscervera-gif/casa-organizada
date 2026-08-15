@@ -17,7 +17,7 @@ products:
   - name: "Cesta giratoria para maquillaje y cosmética"
     priceRange: "12-20 €"
     pros: ["Acceso a todo con un giro, sin rebuscar", "Ideal para baños con poco espacio en encimera"]
-    cons: ["Ocupa espacio en horizontal, no sirve si la encimera es muy estrecha"]
+    cons: ["Ocupa espacio en horizontal, no sirve si la encimera es estrecha"]
     affiliateUrl: "https://www.amazon.es/s?k=organizador+giratorio+maquillaje&tag=AFFILIATE_ID_PENDING"
 ---
 
@@ -36,7 +36,7 @@ Para baños pequeños, la estantería sobre inodoro es la que más espacio de gu
 ## Preguntas frecuentes
 
 **¿Los organizadores adhesivos de ducha aguantan azulejos con relieve?**
-No siempre; en superficies muy rugosas o porosas la adherencia baja bastante. Conviene comprobar la superficie antes.
+No siempre; en superficies rugosas o porosas la adherencia baja bastante. Conviene comprobar la superficie antes.
 
 **¿Se puede combinar más de un sistema en el mismo baño?**
 Sí, de hecho es lo habitual: estantería sobre inodoro para toallas y repuestos, organizador de ducha para el uso diario y cesta giratoria en la encimera para cosmética.

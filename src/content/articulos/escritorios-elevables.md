@@ -6,7 +6,7 @@ category: "Oficina en casa"
 products:
   - name: "Escritorio elevable eléctrico (base motorizada)"
     priceRange: "220-350 €"
-    pros: ["Cambia de altura con un botón", "Memoria de posiciones favoritas", "Estructura muy estable"]
+    pros: ["Cambia de altura con un botón", "Memoria de posiciones favoritas", "Estructura estable"]
     cons: ["Precio más alto", "Necesita toma eléctrica cerca"]
     affiliateUrl: "https://www.amazon.es/s?k=escritorio+elevable+electrico&tag=AFFILIATE_ID_PENDING"
   - name: "Convertidor de escritorio elevable (sobremesa)"

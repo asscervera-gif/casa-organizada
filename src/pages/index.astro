@@ -11,7 +11,7 @@ const articulos = (await getCollection('articulos')).sort(
   description="Comparativas y guías de compra honestas sobre almacenaje, escritorios y gadgets para organizar tu casa u oficina."
 >
   <h1>Organización y productividad para casa y oficina</h1>
-  <p class="meta">Comparativas y guías de compra actualizadas.</p>
+  <p class="meta">{articulos.length} guías de compra, cada una con precios reales, pros y contras concretos — sin relleno.</p>
 
   <div class="grid">
     {articulos.map((articulo) => (

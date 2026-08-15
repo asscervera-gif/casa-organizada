@@ -11,7 +11,7 @@ products:
     affiliateUrl: "https://www.amazon.es/s?k=perchero+pie+madera+paraguero&tag=AFFILIATE_ID_PENDING"
   - name: "Perchero metálico con banco de almacenaje inferior"
     priceRange: "40-70 €"
-    pros: ["El banco permite calzarse sentado y guardar zapatos a la vez", "Muy práctico para entradas familiares"]
+    pros: ["El banco permite calzarse sentado y guardar zapatos a la vez", "Práctico para entradas familiares"]
     cons: ["Precio más alto", "Necesita más espacio de pared que uno simple"]
     affiliateUrl: "https://www.amazon.es/s?k=perchero+banco+almacenaje+entrada&tag=AFFILIATE_ID_PENDING"
   - name: "Perchero compacto de pie, base estrecha"

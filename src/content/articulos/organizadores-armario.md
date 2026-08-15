@@ -12,7 +12,7 @@ products:
   - name: "Organizador colgante de 6 estantes"
     priceRange: "10-18 €"
     pros: ["Multiplica el espacio vertical", "Instalación sin herramientas", "Ideal para jerséis y bolsos"]
-    cons: ["Puede combarse con peso excesivo", "No apto para prendas muy pesadas"]
+    cons: ["Puede combarse con peso excesivo", "No apto para prendas pesadas"]
     affiliateUrl: "https://www.amazon.es/s?k=organizador+colgante+armario&tag=AFFILIATE_ID_PENDING"
   - name: "Separadores de cajón ajustables (juego)"
     priceRange: "12-20 €"

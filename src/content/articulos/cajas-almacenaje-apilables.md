@@ -6,7 +6,7 @@ category: "Almacenaje"
 products:
   - name: "Caja de plástico con tapa clip (45 L)"
     priceRange: "8-14 €"
-    pros: ["Cierre por clips resistente", "Apilable de forma muy estable", "Buena transparencia para ver el contenido"]
+    pros: ["Cierre por clips resistente", "Apilable de forma estable", "Buena transparencia para ver el contenido"]
     cons: ["No es 100% hermética frente al agua"]
     affiliateUrl: "https://www.amazon.es/s?k=caja+plastico+apilable+tapa+clip&tag=AFFILIATE_ID_PENDING"
   - name: "Caja hermética con junta de goma"

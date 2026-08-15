@@ -12,7 +12,7 @@ products:
   - name: "Estante escalonado para despensa"
     priceRange: "12-20 €"
     pros: ["Permite ver todo el contenido de un vistazo", "Aprovecha estantes profundos"]
-    cons: ["Ocupa algo de altura, no apto para estantes muy bajos"]
+    cons: ["Ocupa algo de altura, no apto para estantes bajos"]
     affiliateUrl: "https://www.amazon.es/s?k=estante+escalonado+despensa&tag=AFFILIATE_ID_PENDING"
 ---
 

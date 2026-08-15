@@ -31,7 +31,7 @@ Elegir bien la cesta de la ropa sucia parece un detalle menor, pero cambia el h�
 
 ## Nuestra recomendación rápida
 
-Para la mayoría de hogares, la cesta con ruedas y compartimentos es la que mejor relación tiene entre comodidad y organización, salvo que el espacio sea muy limitado, donde gana la opción colgante.
+Para la mayoría de hogares, la cesta con ruedas y compartimentos es la que mejor relación tiene entre comodidad y organización, salvo que el espacio sea limitado, donde gana la opción colgante.
 
 ## Preguntas frecuentes
 

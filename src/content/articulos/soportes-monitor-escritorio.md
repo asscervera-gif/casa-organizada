@@ -11,7 +11,7 @@ products:
     affiliateUrl: "https://www.amazon.es/s?k=soporte+elevador+monitor+almacenaje&tag=AFFILIATE_ID_PENDING"
   - name: "Brazo articulado de pared o pinza de mesa"
     priceRange: "25-50 €"
-    pros: ["Libera todo el espacio de la mesa bajo el monitor", "Ajuste de altura y ángulo muy preciso"]
+    pros: ["Libera todo el espacio de la mesa bajo el monitor", "Ajuste de altura y ángulo preciso"]
     cons: ["Instalación algo más compleja", "Necesita monitor compatible con anclaje VESA"]
     affiliateUrl: "https://www.amazon.es/s?k=brazo+articulado+monitor+vesa&tag=AFFILIATE_ID_PENDING"
   - name: "Elevador de madera o bambú fijo"
@@ -36,7 +36,7 @@ Si el objetivo es simplemente ganar altura y espacio de guardado, el soporte con
 ## Preguntas frecuentes
 
 **¿Sirve para monitores curvos o ultrawide?**
-Los soportes fijos suelen soportar la mayoría de monitores estándar, pero para modelos ultrawide o muy pesados conviene revisar el peso máximo soportado.
+Los soportes fijos suelen soportar la mayoría de monitores estándar, pero para modelos ultrawide o pesados conviene revisar el peso máximo soportado.
 
 **¿Se puede usar con portátil en vez de monitor?**
 Sí, muchos elevadores fijos también sirven como soporte de portátil, aunque para trabajar cómodo se recomienda combinarlo con teclado y ratón externos.

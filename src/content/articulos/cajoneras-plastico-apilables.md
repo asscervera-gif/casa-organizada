@@ -39,4 +39,4 @@ Para uso general en habitación u oficina, la cajonera de 4-5 cajones con ruedas
 Sí, siempre que sean del mismo fabricante y modelo, ya que las medidas de encaje varían entre marcas.
 
 **¿Aguantan bien el peso de ropa de invierno (jerséis, mantas)?**
-Los modelos de gama media-alta sí, pero conviene no forzar el cierre del cajón si está muy lleno para no dañar las guías.
+Los modelos de gama media-alta sí, pero conviene no forzar el cierre del cajón si está lleno para no dañar las guías.

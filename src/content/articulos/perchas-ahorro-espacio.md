@@ -11,12 +11,12 @@ products:
     affiliateUrl: "https://www.amazon.es/s?k=perchas+cascada+ahorro+espacio&tag=AFFILIATE_ID_PENDING"
   - name: "Perchas de terciopelo antideslizante (set de 20-30)"
     priceRange: "15-25 €"
-    pros: ["Muy finas, ocupan menos ancho de barra que las de plástico", "La ropa no resbala ni se cae"]
-    cons: ["Más delicadas, algunas prendas muy pesadas necesitan percha reforzada"]
+    pros: ["Finas, ocupan menos ancho de barra que las de plástico", "La ropa no resbala ni se cae"]
+    cons: ["Más delicadas, algunas prendas pesadas necesitan percha reforzada"]
     affiliateUrl: "https://www.amazon.es/s?k=perchas+terciopelo+antideslizante&tag=AFFILIATE_ID_PENDING"
   - name: "Perchas plegables de viaje"
     priceRange: "6-12 €"
-    pros: ["Se pliegan para ocupar mínimo espacio en la maleta", "Útiles también para espacios muy reducidos en casa"]
+    pros: ["Se pliegan para ocupar mínimo espacio en la maleta", "Útiles también para espacios reducidos en casa"]
     cons: ["Menos resistentes que una percha estándar para uso diario prolongado"]
     affiliateUrl: "https://www.amazon.es/s?k=perchas+plegables+viaje&tag=AFFILIATE_ID_PENDING"
 ---

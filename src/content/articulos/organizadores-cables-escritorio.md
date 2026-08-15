@@ -11,7 +11,7 @@ products:
     affiliateUrl: "https://www.amazon.es/s?k=canaleta+pasacables+mesa&tag=AFFILIATE_ID_PENDING"
   - name: "Clips organizadores de cable (pack)"
     priceRange: "5-9 €"
-    pros: ["Muy baratos", "Evitan que los cables se caigan detrás de la mesa"]
+    pros: ["Precio bajo", "Evitan que los cables se caigan detrás de la mesa"]
     cons: ["Solución parcial, no oculta el cableado grueso"]
     affiliateUrl: "https://www.amazon.es/s?k=clips+organizadores+cable&tag=AFFILIATE_ID_PENDING"
 ---

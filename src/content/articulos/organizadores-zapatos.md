@@ -7,7 +7,7 @@ products:
   - name: "Zapatero de tela apilable (varios niveles)"
     priceRange: "15-28 €"
     pros: ["Se amplía añadiendo más niveles según necesidad", "Ligero y fácil de mover", "Buena ventilación para el calzado"]
-    cons: ["Menos resistente que uno rígido, no apto para zapatos muy pesados o botas altas"]
+    cons: ["Menos resistente que uno rígido, no apto para zapatos pesados o botas altas"]
     affiliateUrl: "https://www.amazon.es/s?k=zapatero+tela+apilable&tag=AFFILIATE_ID_PENDING"
   - name: "Organizador colgante de puerta con bolsillos"
     priceRange: "10-18 €"

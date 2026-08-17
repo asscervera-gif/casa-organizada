@@ -10,7 +10,8 @@
     "nuevo-articulo": "node scripts/generar_articulo.mjs",
     "verificar": "node scripts/verificar_lanzamiento.mjs",
     "dominio": "node scripts/actualizar_dominio.mjs",
-    "afiliado": "node scripts/actualizar_afiliado.mjs"
+    "afiliado": "node scripts/actualizar_afiliado.mjs",
+    "pinterest": "node scripts/publicar_pinterest.mjs"
   },
   "dependencies": {
     "astro": "^5.0.0",
